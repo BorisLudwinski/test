@@ -1,4 +1,8 @@
-// ZNAJDZ KURWA DEBILU ZEBY TE ARRAYE NIE BYLY
+// KOMBINATORYKA Z WYSWIETLENIEM DZIEKOW NA GRYFIE I PODSWIETLENIEM WYBRANEJ GAMY
+
+
+
+// OGARNIJ SPOSOB ZEBY TE ARRAYE NIE BYLY
 // WYPISYWANE MANUALNIE ;D
 // *WYŚWIETL OD DANEJ KOMÓRKI - CZY COS TAKIEGO
 //
@@ -44,7 +48,7 @@ if (firstString == 'c' && 'C') {
 } else if (firstString == 'b') {
     console.log(notes[11], notes[0], notes[1], notes[2], notes[3], notes[4], notes[5], notes[6], notes[7], notes[8], notes[9], notes[10]);
 } else {
-    console.log(' wpisz dobry dzwiek kurwa debilu jebany');
+    console.log(' wpisz dobry dzwiek ');
     return firstString;
 }
 
@@ -75,7 +79,7 @@ if (secondString == 'c') {
 } else if (secondString == 'b') {
     console.log(notes[11], notes[0], notes[1], notes[2], notes[3], notes[4], notes[5], notes[6], notes[7], notes[8], notes[9], notes[10]);
 } else {
-    console.log(' wpisz dobry dzwiek kurwa debilu jebany');
+    console.log(' wpisz dobry dzwiek ');
 }
 
 const thirdString = prompt("Third string is tuned to?");
@@ -104,7 +108,7 @@ if (thirdString == 'c') {
 } else if (thirdString == 'b') {
     console.log(notes[11], notes[0], notes[1], notes[2], notes[3], notes[4], notes[5], notes[6], notes[7], notes[8], notes[9], notes[10]);
 } else {
-    console.log(' wpisz dobry dzwiek kurwa debilu jebany');
+    console.log(' wpisz dobry dzwiek ');
 }
 
 const fourthString = prompt("Fourth string is tuned to?");
@@ -133,7 +137,7 @@ if (fourthString == 'c') {
 } else if (fourthString == 'b') {
     console.log(notes[11], notes[0], notes[1], notes[2], notes[3], notes[4], notes[5], notes[6], notes[7], notes[8], notes[9], notes[10]);
 } else {
-    console.log(' wpisz dobry dzwiek kurwa debilu jebany');
+    console.log(' wpisz dobry dzwiek ');
 }
 
 const fifthString = prompt("Fifth string is tuned to?");
@@ -162,7 +166,7 @@ if (fifthString == 'c') {
 } else if (fifthString == 'b') {
     console.log(notes[11], notes[0], notes[1], notes[2], notes[3], notes[4], notes[5], notes[6], notes[7], notes[8], notes[9], notes[10]);
 } else {
-    console.log(' wpisz dobry dzwiek kurwa debilu jebany');
+    console.log(' wpisz dobry dzwiek ');
 }
 
 const sixthString = prompt("Sixth string is tuned to?");
@@ -191,7 +195,7 @@ if (sixthString == 'c') {
 } else if (sixthString == 'b') {
     console.log(notes[11], notes[0], notes[1], notes[2], notes[3], notes[4], notes[5], notes[6], notes[7], notes[8], notes[9], notes[10]);
 } else {
-    console.log(' wpisz dobry dzwiek kurwa debilu jebany');
+    console.log(' wpisz dobry dzwiek ');
 }
 
 const seventhString = prompt("Seventh string is tuned to?");
@@ -220,7 +224,7 @@ if (seventhString == 'c') {
 } else if (seventhString == 'b') {
     console.log(notes[11], notes[0], notes[1], notes[2], notes[3], notes[4], notes[5], notes[6], notes[7], notes[8], notes[9], notes[10]);
 } else {
-    console.log(' wpisz dobry dzwiek kurwa debilu jebany');
+    console.log(' wpisz dobry dzwiek ');
 }
 
 
